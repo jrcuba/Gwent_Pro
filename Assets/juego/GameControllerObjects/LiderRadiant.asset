@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 95651683513a8c144a1b7621f4399d2f, type: 3}
-  m_Name: Weaver
+  m_Name: LiderRadiant
   m_EditorClassIdentifier: 
-  Power: 6
-  CardName: Weaver
-  Faction: Dire
-  Description: ...
-  Type: Gold
-  FileType: Range
-  Efect: Double Atack
-  Picture: {fileID: 21300000, guid: 6020c42e47b900940ad62fda15c26623, type: 3}
+  Power: 0
+  CardName: 
+  Faction: 
+  Description: 
+  Type: 
+  FileType: 
+  Efect: 
+  Picture: {fileID: 0}
