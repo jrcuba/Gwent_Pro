@@ -15,8 +15,11 @@ MonoBehaviour:
   Power: 7
   CardName: Jugernaut
   Faction: Radiant
-  Description: ...
+  Description: Cc
   Type: Gold
   FileType: Melee
-  Efect: Omnyslash
+  Efect: "Critical Hit: Asesta un golpe critico a un enemigo el c\xFAal no acaba
+    con el pero duplica el poder de jugernaut por la furia de batalla,este poder
+    es una espada de doble filo si se vuelve a usar fallar\xE1 el golpe cr\xEDtico
+    y ceder\xE1 el turno al oponente"
   Picture: {fileID: 21300000, guid: eca9dfd31086efe4786d18c5ca489d88, type: 3}

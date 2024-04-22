@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 5
   CardName: Invoker
   Faction: Radiant
-  Description: Is a Magician with the powers of gods
+  Description: Lider
   Type: Lider
   FileType: Lider
-  Efect: Destroy all enemies monsters in a file
+  Efect: 'Cataclismo : Destruye todos los enemigos en el campo pero deja residuo
+    de su poder quedandose el equipo contrario con la mitad de este'
   Picture: {fileID: 21300000, guid: 75221affd23255c44b9771e2e2fbe2bd, type: 3}

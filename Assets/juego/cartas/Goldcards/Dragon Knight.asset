@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 4
   CardName: Dragon Knight
   Faction: Radiant
-  Description: ...
+  Description: Cc
   Type: Gold
   FileType: Melee
-  Efect: Dragon Form
+  Efect: "Dragon Form:se convierte en drag\xF3n transpasando las defensas del oponente
+    y atacando directamente a una carta dire eliminandola"
   Picture: {fileID: 21300000, guid: a008c0209beb37b4a983c46416171588, type: 3}

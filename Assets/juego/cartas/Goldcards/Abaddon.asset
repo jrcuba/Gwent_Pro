@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 3
   CardName: Abaddon
   Faction: Radiant
-  Description: ...
+  Description: Cc
   Type: Gold
   FileType: Melee
-  Efect: Life2
+  Efect: "Escudo de Zona: Pone una carta del deck en la posici\xF3n 1 de la mano
+    ,se activa un turno despu\xE9s de haber sido invocado"
   Picture: {fileID: 21300000, guid: 059cb745536d4dd4e81d7c138bb8ac38, type: 3}

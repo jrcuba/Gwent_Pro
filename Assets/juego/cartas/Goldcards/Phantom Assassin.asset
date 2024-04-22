@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 7
   CardName: Phantom Assassin
   Faction: Dire
-  Description: Is the the shadow murderer
+  Description: Cc jeva
   Type: Gold
   FileType: Melee
-  Efect: Double Damage
+  Efect: 'Blink : Se traslada hacia un enemigo asestando un golpe critico tomando
+    sus puntos de poder '
   Picture: {fileID: 21300000, guid: 0e18205f867120049ad616802e9d2cf6, type: 3}

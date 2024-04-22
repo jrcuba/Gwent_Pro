@@ -12,4 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d5d980ddee6ee4f8b475112c350c04, type: 3}
   m_Name: HandRadiant
   m_EditorClassIdentifier: 
-  hand: []
+  hand:
+  - {fileID: 11400000, guid: 5c6b76440e444f34c8eedf3528cdc484, type: 2}
+  - {fileID: 11400000, guid: b6e0bcf98a43e7e41bed6920e784a985, type: 2}
+  - {fileID: 11400000, guid: 0c34ccff83357e048abc1f9c8fd0f305, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: 5c6b76440e444f34c8eedf3528cdc484, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: 3b989d950ef1cd941bf868694d846309, type: 2}
+  - {fileID: 11400000, guid: 48be2c2a4768e2442ad7522fa09035d4, type: 2}
+  - {fileID: 11400000, guid: cf87b3a728fa24649ae18c448512c1cc, type: 2}

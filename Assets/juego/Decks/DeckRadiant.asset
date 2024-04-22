@@ -12,4 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7955b21a6061358488aa05fc16cb059b, type: 3}
   m_Name: DeckRadiant
   m_EditorClassIdentifier: 
-  deck: []
+  deck:
+  - {fileID: 11400000, guid: 48be2c2a4768e2442ad7522fa09035d4, type: 2}
+  - {fileID: 11400000, guid: 029c260b08d74ce4dbd29a13e2e3de12, type: 2}
+  - {fileID: 11400000, guid: cf87b3a728fa24649ae18c448512c1cc, type: 2}
+  - {fileID: 11400000, guid: 3b989d950ef1cd941bf868694d846309, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: c16edbab4bd03db4586dc5b027f6ed1d, type: 2}
+  - {fileID: 11400000, guid: 41d1966d4a157c24fb9f428f0caf9fbf, type: 2}
+  - {fileID: 11400000, guid: 41d1966d4a157c24fb9f428f0caf9fbf, type: 2}
+  - {fileID: 11400000, guid: 41d1966d4a157c24fb9f428f0caf9fbf, type: 2}
+  - {fileID: 11400000, guid: 6f725c8af42bd8f4ba2cf35d0c27d96e, type: 2}
+  - {fileID: 11400000, guid: 6f725c8af42bd8f4ba2cf35d0c27d96e, type: 2}
+  - {fileID: 11400000, guid: 5c6b76440e444f34c8eedf3528cdc484, type: 2}
+  - {fileID: 11400000, guid: 5c6b76440e444f34c8eedf3528cdc484, type: 2}
+  - {fileID: 11400000, guid: b6e0bcf98a43e7e41bed6920e784a985, type: 2}
+  - {fileID: 11400000, guid: b6e0bcf98a43e7e41bed6920e784a985, type: 2}

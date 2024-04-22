@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 4
   CardName: Razor
   Faction: Dire
-  Description: ...
+  Description: Asedio manito
   Type: Gold
   FileType: Asedy
-  Efect: robo de ataque
+  Efect: "Tormenta El\xE9ctrica : elimina el enemigo con m\xE1s poder en la zona
+    melee cuando hayan dos en esta"
   Picture: {fileID: 21300000, guid: 4d803eb256b554d499805595bc607429, type: 3}

@@ -59,12 +59,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scenescosas\Escene1cosas\scripts\Saltar Cinematica.cs" />
-    <Compile Include="Assets\juego\cartas\Scripts\Deck.cs" />
     <Compile Include="Assets\Scenescosas\Scene2cosas\scripts\SaltarCinematica2.cs" />
-    <Compile Include="Assets\juego\cartas\Scripts\Hand.cs" />
-    <Compile Include="Assets\juego\cartas\Scripts\GameController.cs" />
     <Compile Include="Assets\Scenescosas\Scene2cosas\scripts\Salirdeljuego.cs" />
-    <Compile Include="Assets\juego\cartas\Scripts\Card.cs" />
+    <Compile Include="Assets\juego\Scripts\Deck.cs" />
+    <Compile Include="Assets\juego\Scripts\Hand.cs" />
+    <Compile Include="Assets\juego\Scripts\Card.cs" />
+    <Compile Include="Assets\juego\Scripts\GameController.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

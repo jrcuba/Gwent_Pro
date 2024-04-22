@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 6
   CardName: Lina
   Faction: Radiant
-  Description: ..
+  Description: Ranguito
   Type: Gold
   FileType: Range
-  Efect: Lagune Blade
+  Efect: "Lagune Blade : cuando hayan 2 oponentes de rango acechandola Lina lanza
+    un rayo azul sobre el oponente m\xE1s debil acabando con este al instante"
   Picture: {fileID: 21300000, guid: 9244b4c21d2282b4384652d3fce42676, type: 3}

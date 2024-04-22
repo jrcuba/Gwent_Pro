@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 8
   CardName: Sven
   Faction: Dire
-  Description: ..
+  Description: 'Cc '
   Type: Gold
   FileType: Melee
-  Efect: Rojo
+  Efect: 'Rojo : se pone rojo volviendo su espada de este color y trayendo al campo
+    esta como una desoladora'
   Picture: {fileID: 21300000, guid: 7384f1a335a967d4baddecdd96afd1d1, type: 3}

@@ -15,8 +15,10 @@ MonoBehaviour:
   Power: 0
   CardName: Gleirpnir
   Faction: Dire
-  Description: ..
+  Description: Objeto
   Type: Silver
   FileType: Efect
-  Efect: Destroy
+  Efect: "Disminuci\xF3n de da\xF1o: probabilidad del 33.3 % de que salga una zona
+    enemiga ,la zona que salga disminuye el poder residual hasta en 6 dependiendo
+    de la cantidad de cartas de esa zona"
   Picture: {fileID: 21300000, guid: b06e54568d0bb124db41488648d23c2b, type: 3}

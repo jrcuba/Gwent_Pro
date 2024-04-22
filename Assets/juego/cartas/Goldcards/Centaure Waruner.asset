@@ -15,8 +15,10 @@ MonoBehaviour:
   Power: 5
   CardName: Centaure Waruner
   Faction: Dire
-  Description: ..
+  Description: Cc
   Type: Gold
   FileType: Melee
-  Efect: Embestida
+  Efect: "Embestida:Carga contra la carta de asedio m\xE1s cercana cercenandola por
+    completo de su pocisi\xF3n ,Carga a aliado: Permite junto con embestida invocar
+    otra carta de la mano.solo puede activarse un turno despu\xE9s de invocarse"
   Picture: {fileID: 21300000, guid: 265c5fe1cc9aa5a40b4a50b407ba1886, type: 3}

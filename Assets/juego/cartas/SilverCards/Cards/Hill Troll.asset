@@ -15,8 +15,8 @@ MonoBehaviour:
   Power: 2
   CardName: Hill Troll
   Faction: Dire
-  Description: ...
+  Description: Creep cuerpo a cuerpo
   Type: Silver
   FileType: Melee
-  Efect: None
+  Efect: "Se\xF1ueloMelee"
   Picture: {fileID: 21300000, guid: dcf35ed5baa8f824c954a81d150748db, type: 3}

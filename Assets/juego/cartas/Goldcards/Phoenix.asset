@@ -15,8 +15,9 @@ MonoBehaviour:
   Power: 3
   CardName: Phoenix
   Faction: Radiant
-  Description: ...
+  Description: Ranguito
   Type: Gold
   FileType: Range
-  Efect: Return
+  Efect: 'Huevo Protector : asegura la zona principal de la mano permitiendo el renacimiento
+    de esta en una nueva carta una vez por turno'
   Picture: {fileID: 21300000, guid: aad2cdd0fe0b9fb478a7f2cf910c5aae, type: 3}

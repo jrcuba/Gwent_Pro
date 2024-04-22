@@ -15,8 +15,10 @@ MonoBehaviour:
   Power: 6
   CardName: Weaver
   Faction: Dire
-  Description: ...
+  Description: Asedio manito
   Type: Gold
   FileType: Range
-  Efect: Double Atack
+  Efect: "asecho :elimina el h\xE9roe con menos poder del equipo rival  de la zona
+    rango ,si la habilidad se activa y no hay h\xE9roes waver retorna a su posici\xF3n
+    inicial y esto cuenta como una jugada"
   Picture: {fileID: 21300000, guid: 6020c42e47b900940ad62fda15c26623, type: 3}

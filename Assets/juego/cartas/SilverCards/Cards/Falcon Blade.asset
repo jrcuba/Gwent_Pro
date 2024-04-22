@@ -15,8 +15,10 @@ MonoBehaviour:
   Power: 0
   CardName: Falcon Blade
   Faction: Radiant
-  Description: ...
+  Description: Objeto
   Type: Silver
   FileType: Efect
-  Efect: Add Damage
+  Efect: "Aumento de da\xF1o: probabilidad del 33.3 % de que salga una zona aliada
+    ,la zona que salga aumenta el poder residual hasta en 6 dependiendo de la cantidad
+    de cartas de esa zona "
   Picture: {fileID: 21300000, guid: d1b28ecc70c2ae9459b48f66e53cd6a9, type: 3}

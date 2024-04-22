@@ -15,8 +15,8 @@ MonoBehaviour:
   Power: 2
   CardName: Kobold
   Faction: Radiant
-  Description: ..
+  Description: Creep cuerpo a cuerpo
   Type: Silver
   FileType: Melee
-  Efect: None
+  Efect: "Se\xF1ueloMelee"
   Picture: {fileID: 21300000, guid: 2fdba116f0aa9c64d9bea0988fce29b9, type: 3}

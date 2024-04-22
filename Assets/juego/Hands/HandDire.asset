@@ -12,4 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9d5d980ddee6ee4f8b475112c350c04, type: 3}
   m_Name: HandDire
   m_EditorClassIdentifier: 
-  hand: []
+  hand:
+  - {fileID: 11400000, guid: d3495a93c637e1340ba2c28a611b2061, type: 2}
+  - {fileID: 11400000, guid: 5d291757c4a39fb4686ab7390e6a0574, type: 2}
+  - {fileID: 11400000, guid: 202626928d636c747a7182aecf02e87e, type: 2}
+  - {fileID: 11400000, guid: 7ee43374736717642a41757d1a6b33ee, type: 2}
+  - {fileID: 11400000, guid: 3f332b1ae18e7804097ca5d85f8bc0e1, type: 2}
+  - {fileID: 11400000, guid: 4cf4fedf9ac38b844bb3aeac934cbd77, type: 2}
+  - {fileID: 11400000, guid: 202626928d636c747a7182aecf02e87e, type: 2}
+  - {fileID: 11400000, guid: 2ef313e59390b234a8d4009adfffc8e4, type: 2}
+  - {fileID: 11400000, guid: 7ee43374736717642a41757d1a6b33ee, type: 2}
+  - {fileID: 11400000, guid: 5d291757c4a39fb4686ab7390e6a0574, type: 2}

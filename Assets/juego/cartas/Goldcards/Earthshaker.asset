@@ -15,8 +15,11 @@ MonoBehaviour:
   Power: 4
   CardName: Earthshaker
   Faction: Radiant
-  Description: ...
+  Description: Asedio manito
   Type: Gold
   FileType: Asedy
-  Efect: Echo Slam
+  Efect: "Echo Slam:Aplica un golpe resonante que deja aturdido al h\xE9roe con menos
+    poder enemigo para luego destruir por el solo con una fisura al m\xE1s poderoso,la
+    muerte solo se produce cuando logra asotar a 2 h\xE9roes a la vez,permite volver
+    a invocar"
   Picture: {fileID: 21300000, guid: cfe1524a9b972ec45bbd81676155f522, type: 3}

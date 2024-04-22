@@ -15,7 +15,7 @@ MonoBehaviour:
   Power: 2
   CardName: harpy Scout
   Faction: Dire
-  Description: ...
+  Description: Creep de Rango
   Type: Silver
   FileType: Range
   Efect: None
